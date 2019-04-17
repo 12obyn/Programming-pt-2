@@ -1,7 +1,7 @@
 #Deshawn Smith
 #04/09/2019
 
-#Problem 2 this will tell you the number of day of the week you returned on.
+#Problem 2 this will tell you the number of day of the week you returned on. # Why is this exactly what JD wrote?
 
 day = int(input("number 0 - 6"))
 
